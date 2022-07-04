@@ -1,0 +1,24 @@
+.blogs{
+    background-color: aqua;
+    border: 5px solid green;
+    border-radius: 10px;
+    margin: 10px 20px 10px 20px;
+    padding: 10px 20px 10px 20px;
+    height: 50px auto;
+    width: 50px auto;
+}
+.blogs-title{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+.author
+{
+    color: rgb(153, 124, 233);
+}
+.blogs p{
+    color: brown;
+    text-align: justify;
+}
+
